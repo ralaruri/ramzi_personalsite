@@ -49,19 +49,18 @@ img {
 }
 
 .example1 {
-
-  
   border: 1px solid;
   padding: 5px;
   box-shadow: 3px 3px #44bce3;
 }
 
 .center_image {
-  float: left;
+  float: center;
   max-width: 100%;
   height: auto;
   border: 1px solid white;
   box-shadow: -3px -3px #44bce3;
+  
 }
 
 .fa {
